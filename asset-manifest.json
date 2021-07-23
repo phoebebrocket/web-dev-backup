@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/bbk-assignment/static/css/main.816db7ba.chunk.css",
+    "main.js": "/bbk-assignment/static/js/main.754faa8d.chunk.js",
+    "main.js.map": "/bbk-assignment/static/js/main.754faa8d.chunk.js.map",
+    "runtime-main.js": "/bbk-assignment/static/js/runtime-main.040890e1.js",
+    "runtime-main.js.map": "/bbk-assignment/static/js/runtime-main.040890e1.js.map",
+    "static/js/2.636f80ff.chunk.js": "/bbk-assignment/static/js/2.636f80ff.chunk.js",
+    "static/js/2.636f80ff.chunk.js.map": "/bbk-assignment/static/js/2.636f80ff.chunk.js.map",
+    "static/js/3.89c89aef.chunk.js": "/bbk-assignment/static/js/3.89c89aef.chunk.js",
+    "static/js/3.89c89aef.chunk.js.map": "/bbk-assignment/static/js/3.89c89aef.chunk.js.map",
+    "index.html": "/bbk-assignment/index.html",
+    "static/css/main.816db7ba.chunk.css.map": "/bbk-assignment/static/css/main.816db7ba.chunk.css.map",
+    "static/js/2.636f80ff.chunk.js.LICENSE.txt": "/bbk-assignment/static/js/2.636f80ff.chunk.js.LICENSE.txt",
+    "static/media/bigcookie.90ee67b6.png": "/bbk-assignment/static/media/bigcookie.90ee67b6.png",
+    "static/media/bigcookie.ed53fb74.jpg": "/bbk-assignment/static/media/bigcookie.ed53fb74.jpg",
+    "static/media/blue_logo.9f129e06.svg": "/bbk-assignment/static/media/blue_logo.9f129e06.svg",
+    "static/media/box2.3db74a86.jpg": "/bbk-assignment/static/media/box2.3db74a86.jpg",
+    "static/media/cookiebox.74681d3d.jpg": "/bbk-assignment/static/media/cookiebox.74681d3d.jpg",
+    "static/media/cookieboxblue.6f001ffb.png": "/bbk-assignment/static/media/cookieboxblue.6f001ffb.png",
+    "static/media/cookiepile.6071c998.jpg": "/bbk-assignment/static/media/cookiepile.6071c998.jpg",
+    "static/media/cookiepile.6ac0aef2.png": "/bbk-assignment/static/media/cookiepile.6ac0aef2.png",
+    "static/media/cooookies.44274a52.jpg": "/bbk-assignment/static/media/cooookies.44274a52.jpg",
+    "static/media/flatcookies.9eb92808.png": "/bbk-assignment/static/media/flatcookies.9eb92808.png",
+    "static/media/flatcookies.f88b5e9c.jpg": "/bbk-assignment/static/media/flatcookies.f88b5e9c.jpg",
+    "static/media/homecookies.0e374fa6.png": "/bbk-assignment/static/media/homecookies.0e374fa6.png",
+    "static/media/homecookies.7d03d16e.jpg": "/bbk-assignment/static/media/homecookies.7d03d16e.jpg",
+    "static/media/logocolour.f99b6c27.svg": "/bbk-assignment/static/media/logocolour.f99b6c27.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.040890e1.js",
+    "static/js/2.636f80ff.chunk.js",
+    "static/css/main.816db7ba.chunk.css",
+    "static/js/main.754faa8d.chunk.js"
+  ]
+}
